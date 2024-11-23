@@ -14,4 +14,4 @@ Chat Templateに沿って質問した場合としなかった場合の違い。
 
 対話に特化させるためにChat Templateに従わせるのがよい。
 
-[](asset/image1.png)
+![](asset/image1.png)
