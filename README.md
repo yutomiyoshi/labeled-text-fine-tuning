@@ -3,7 +3,7 @@
 導入時、インストール（RunPodではreq.txtが使えなかった・・・）
 
 ```
-pip install datasets transformers[torch] bitsandbytes
+pip install datasets transformers[torch] bitsandbytes trl peft
 ```
 
 ### 気付き
